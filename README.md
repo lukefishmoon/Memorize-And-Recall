@@ -14,5 +14,5 @@ docker build -t memory-recall .
 
 docker run -dp 3000:3000 memory-recall
 
-Game Screen shot:
+## Game Screen shot:
 
