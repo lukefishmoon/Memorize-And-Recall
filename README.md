@@ -13,7 +13,5 @@ docker run -dp 3000:3000 memory-recall
 
 ## Game Screen shot:
 
-
-[Memorize-And-Recall.pdf](https://github.com/lukefishmoon/Memorize-And-Recall/files/8781184/Memorize-And-Recall.pdf)
-
+![image](https://user-images.githubusercontent.com/3278225/170550140-c9ef4c53-0941-4950-bda8-a0e29183f0d5.png)
 
