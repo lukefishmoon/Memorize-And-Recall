@@ -1,9 +1,15 @@
 This is example project for the Game of Memory and Recall with react and TypeScript
 
-### `npm install` and 'npm start' 
+### Runs the app in the development mode.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+step 1) 
+     npm install 
+     
+step 2) 
+    npm start 
+    
+step 3) 
+    Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 ### For run with Docker
 
