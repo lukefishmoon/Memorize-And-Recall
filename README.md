@@ -10,5 +10,9 @@ You will also see any lint errors in the console.
 
 ### For run with Docker
 
-docker build -t memory-recall .
+docker build -t memory-recall . \
+
 docker run -dp 3000:3000 memory-recall
+
+Game Screen shot:
+
